@@ -1,0 +1,30 @@
+.reviews {
+    &__tabs {
+        margin-top: 70px;
+        display: flex;
+    }
+
+    &__descr {
+        margin-left: 60px;
+    }
+
+    &__title {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    &__subtitle {
+        font-size: 14px;
+        font-weight: 300;
+        color: #a9a5a5;
+    }
+
+    &__text {
+        font-size: 16px;
+        font-weight: 300;
+    }
+    p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+}
